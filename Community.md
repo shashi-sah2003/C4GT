@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shashi sah</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/shashi-sah2003</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shashi-sah-56aa77175/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Delhi Technological University, Delhi</td>
+  </tr>
+</table>
